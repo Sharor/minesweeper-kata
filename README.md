@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html>
 <head lang="en-us">
   <meta charset="utf-8">
@@ -31,9 +29,6 @@
       <ul>
          Taken from http://codingdojo.org/kata/Minesweeper/ 
   	 Go there for this same description. 
-        
-      </ul>
-    </nav>
 </header>
 
   <article class="page">
