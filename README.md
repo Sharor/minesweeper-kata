@@ -29,28 +29,8 @@
     <h1><a href=/>Coding Dojo</a></h1>
     <nav>
       <ul>
-        
-          
-        
-          
-          <li><a href="http://codingdojo.org/dojo">Dojo</a></li>
-          
-        
-          
-          <li><a href="http://codingdojo.org/kata">Kata</a></li>
-          
-        
-          
-          <li><a href="http://codingdojo.org/people">People</a></li>
-          
-        
-          
-          <li><a href="http://codingdojo.org/record">Record</a></li>
-          
-        
-          
-          <li><a href="http://codingdojo.org/solution">Solution</a></li>
-          
+         Taken from http://codingdojo.org/kata/Minesweeper/ 
+  	 Go there for this same description. 
         
       </ul>
     </nav>
@@ -162,12 +142,6 @@ github.com/mattwynne/software-craftsmanship-katas/tree/master/minesweeper</p>
 
 <p>Macluq has posted his solution on Github :
 <a href="https://github.com/macluq/KataMinesweeper">https://github.com/macluq/KataMinesweeper</a></p>
-
-      <div class="article-footer">
-        <a class="button" href="https://github.com/codingdojo-org/codingdojo.org/edit/master/content/kata/Minesweeper.md ">Edit</a>
-      </div>
-    </div>
-  </article>
 
 </body>
 
